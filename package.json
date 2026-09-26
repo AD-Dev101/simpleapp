@@ -1,0 +1,20 @@
+{
+  "name": "simple-app",
+  "version": "1.0.0",
+  "description": "for practise purpose",
+  "keywords": [
+    "node",
+    "first"
+  ],
+  "license": "ISC",
+  "author": "AD",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1"
+  }
+}
